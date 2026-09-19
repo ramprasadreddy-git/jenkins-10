@@ -2,7 +2,7 @@ public class Addition {
     public static void main(String[] args) {
 
         int a = 10;
-        int b = 30;
+        int b = 70;
 
         int sum = a + b;
 
